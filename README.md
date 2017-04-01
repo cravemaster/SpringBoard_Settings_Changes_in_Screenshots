@@ -14,9 +14,4 @@ In conclusion: this is commonly for developers only, it's only ever been tested 
 
 I will soon post the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to download, put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go.
 
-P.S.: It's also a good idea to please not try this out on an actual iOS device, as you may risk loosing your jailbroken install, and that could cause you to restore somehow (with iTunes, etc., of course :P). And we don't want **that** happening now, do we? ;)
-
-*no chase fromm we dont want that happening, cries the readers. we will take care of our ios devices like the good little friends of yours we are.*
-**we prooooomiiiise!!!**
-
-off you go!
+*Willy WWOOONKAAA, HERE HE IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIISS!!!*
