@@ -5,7 +5,8 @@ So the developers out there - or just the curious (or the impatient and eager) -
 
 I will soon post the recompiled AdvancedSettings8 and it's accompanying files for you to test (so long as you have Xcode, Theos, and simject installed), and then you should be good to go.
 
-By the way, this was **not** tested on to work with the iOS 7 Simulator - nor the iOS 8 Simulator, or iOS 9 Simulator - in mind (and I don't think it'd work, as it'd just be prone to a possible SpringBoard crash or a freeze of the SpringBoard - forcing you to reboot or close out of the iOS Simulator and reopening it - if you tap and hold on the Settings app icon to invoke the internal prototype settings). I, for some reason, simply **never ever** got it to work with Xcode 5, Xcode 6, or Xcode 7's iOS Simulators at all. :(
+By the way, this was theoretically **not** tested (yet?) to work with the iOS Simulator models lower than iOS 10's Simulators. So, it was not tested with the iOS 7 Simulator, iOS 8 Simulator, or iOS 9 Simulator - in mind. And even if it were, I don't think that it would work, as it'd just be prone to a possible SpringBoard crash (or a freeze of the SpringBoard) - forcing you to reboot, or close out of the iOS Simulator and reopening it - after you tap and hold on the Settings app icon to invoke the internal prototype settings).
+I, for some reason, simply **never ever** got it to work with the aformentioned iOS Simulators at all. :(
 
 Only tested on iOS 10.0, iOS 10.1, iOS 10.3 Simulators.
 
