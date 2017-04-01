@@ -15,5 +15,4 @@ In conclusion: this is commonly for developers only, it's only ever been tested 
 I will soon post the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to download, put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go.
 
 puppets sing
-
 **Willy WOOOOOONKAAAAA, HERE HEEEE IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIISSS!!!**
