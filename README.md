@@ -1,9 +1,7 @@
 # SpringBoard_Settings_Changes_in_Screenshots
 So the developers out there - or just the curious (or the impatient and eager) - can look into this instead of going to @hamzasood's Twitter profile to check the any new SpringBoard internal prototype settings that *he* has Tweeted.
 
-
-**This was found straight in the iOS Simulator along with a modified build of AdvancedSettings8** (which was compiled for the iOS simulator specifically and for the x86_64 archictecture only), **and simject**. Please use the x86_64 iOS Simulator models that come preinstalled with (any version of?) Xcode 8.
-
+**This was found straight in the iOS Simulator along with a modified build of AdvancedSettings8** (which was compiled for the iOS Simulator specifically, and only for the x86_64 archictecture only of said iOS Simulator), **and simject**. Please use the x86_64 iOS Simulator models that come preinstalled with (any version of?) Xcode 8, and not the other models (like iPhone 5, etc. They simply will not launch as far as I'm aware of :/).
 
 I will soon post the recompiled AdvancedSettings8 and it's accompanying files for you to test (so long as you have Xcode, Theos, and simject installed), and then you should be good to go.
 
