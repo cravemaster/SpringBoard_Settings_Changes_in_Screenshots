@@ -1,7 +1,7 @@
 # SpringBoard_Settings_Changes_in_Screenshots
 So the developers out there - or just the curious (or the impatient and eager) - can look into this instead of going to @hamzasood's Twitter profile to check the any new SpringBoard internal prototype settings that *he* has Tweeted.
 
-Accessed by loading some files in some directoris and subdirectories and hacking Xcode and the iOS Simulator. Not compatible with an actual iOS device (at all?), opening Settings, going to Developer, enabling both the "Access SpringBoard Settings", and "Access SpringBoard Settings (SIM)" toggles, closing out of Settings, and finally, tapping and holding on the Settings app icon to invoke the menu.
+Accessed by loading some files in some directories and subdirectories, and hacking Xcode and the iOS Simulator. Not compatible with an actual iOS device (nor with an earlier Xcode version or an earlier iOS Simulator even) just by opening Settings, going to Developer, enabling both the "Access SpringBoard Settings", and "Access SpringBoard Settings (SIM)" toggles, closing out of Settings, and finally, tapping and holding on the Settings app icon to invoke the menu.
 
 **This was found straight in the iOS Simulator along with a modified build of AdvancedSettings8** (which was compiled for the iOS Simulator specifically, and only for the x86_64 archictecture only of said iOS Simulator), **a modified Developer Settings bundle, and simject**. Please use the x86_64 iOS Simulator models that come preinstalled with (any version of?) Xcode 8, and not the other models (like iPhone 5, etc. They simply will not launch as far as I'm aware of :/).
 
