@@ -1,7 +1,7 @@
 # SpringBoard_Settings_Changes_in_Screenshots
 So the impatient and eager can look into this instead of going to @hamzasood's timeline and check the any new internal settings that *he* has. #Jealousy!
 
-***** This was found straight in the iOS Simulator along with a modified build of AdvancedSettings8 (which was compiled for the iOS simulator specifically and for the x86_64 archictecture only), and simject. *****
+**This was found straight in the iOS Simulator along with a modified build of AdvancedSettings8 (which was compiled for the iOS simulator specifically and for the x86_64 archictecture only), and simject.**
 
 
 I will soon post the recompiled AdvancedSettings8 and it's accompanying files for you to test (so long as you have Xcode, Theos, and simject installed), and then you should be good to go.
