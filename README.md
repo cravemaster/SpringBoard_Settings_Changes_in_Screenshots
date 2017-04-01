@@ -8,3 +8,5 @@ I will soon post the recompiled AdvancedSettings8 and it's accompanying files fo
 By the way, this was **not** tested on to work with the iOS 7 Simulator - nor the iOS 8 Simulator, or iOS 9 Simulator - in mind (and I don't think it'd work, as it'd just be prone to a possible SpringBoard crash or a freeze of the SpringBoard - forcing you to reboot or close out of the iOS Simulator and reopening it - if you tap and hold on the Settings app icon to invoke the internal prototype settings). I, for some reason, simply **never ever** got it to work with Xcode 5, Xcode 6, or Xcode 7's iOS Simulators at all. :(
 
 Only tested on iOS 10.0, iOS 10.1, iOS 10.3 Simulators.
+
+It's best to not try this on an actual iOS device, as you may risk your jailbroken install, and that could cause you to restore somehow (with iTunes, etc., of course :P).
