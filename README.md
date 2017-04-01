@@ -11,4 +11,4 @@ Only tested on iOS 10.0, iOS 10.1, iOS 10.3 Simulators.
 
 It's also a good idea to please not try this out on an actual iOS device, as you may risk loosing your jailbroken install, and that could cause you to restore somehow (with iTunes, etc., of course :P). And we don't want **that** happening now, do we? ;)
 
-*no chase fromm we dont want that happening, cries the readers. we will take care of our ios devices like the good people we are. wweeee prooooomiiiise!*
+*no chase fromm we dont want that happening, cries the readers. we will take care of our ios devices like the good people we are. we prooooomiiiise!!!*
