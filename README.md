@@ -10,11 +10,9 @@ To reiterate: **this was found straight in the iOS (10) Simulator, along with a 
 
 By the way, this was theoretically **not** tested (yet?) to work with the iOS Simulator models lower than iOS 10's Simulators. So, it was not tested with the iOS 7 Simulator, iOS 8 Simulator, or iOS 9 Simulator. And even if it were tested, I doubt that it would show the internal settings menu, as it'd just be prone to a possible SpringBoard crash (or even a possible freeze of the SpringBoard) forcing you to reboot (or just close out of the iOS Simulator and reopening it) after you tap and hold on the Settings app icon to invoke the internal prototype settings).
 
-I, for some reason, simply **never ever** got it to work with the aformentioned iOS Simulators at all. :(
-
-I will soon post the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to download, put in it's appropriate folder locations, and test (so long as you have Xcode, Theos, and simject installed), and then you should be good to go.
-
 In conclusion: this is commonly for developers only, it's only ever been tested on iOS 10.0, iOS 10.1, iOS 10.3 Simulators, and you need Xcode, Theos, and simject, plus a few other files that I modified. And it will not work on i386 iOS Simulator (iPhone 5, etc.) models.
+
+I will soon post the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to download, put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go.
 
 P.S.: It's also a good idea to please not try this out on an actual iOS device, as you may risk loosing your jailbroken install, and that could cause you to restore somehow (with iTunes, etc., of course :P). And we don't want **that** happening now, do we? ;)
 
