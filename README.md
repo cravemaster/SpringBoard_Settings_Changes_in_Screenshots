@@ -1,5 +1,5 @@
 # SpringBoard_Settings_Changes_in_Screenshots
-So the impatient and eager can look into this instead of going to @hamzasood's timeline and check the any new internal settings that *he* has.
+So the developers out there - or just the curious (or the impatient and eager) - can look into this instead of going to @hamzasood's timeline and check the any new internal settings that *he* has posted.
 
 
 **This was found straight in the iOS Simulator along with a modified build of AdvancedSettings8** (which was compiled for the iOS simulator specifically and for the x86_64 archictecture only), **and simject**. Please use the x86_64 iOS Simulator models that come preinstalled with (any version of?) Xcode 8.
