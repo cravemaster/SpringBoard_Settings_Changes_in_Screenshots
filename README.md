@@ -1,7 +1,8 @@
 # SpringBoard_Settings_Changes_in_Screenshots
 So the developers out there - or just the curious (or the impatient and eager) - can look into this instead of going to @hamzasood's Twitter profile to check the any new SpringBoard internal prototype settings that *he* has Tweeted.
 
-After almost four years of hell, I FINALLY have something for you. Screenshots, and a tutorial (I guess) on how you can access the internal SpringBoard prototype settings, but keep in mind, it is **ONLY in the iOS Simulator** (which is not easy for the laymen, and it's kind of a hell of a task, in fact), **NOT an actual ioS device**. That will require a jailbreak (or, at least, partial root read/write filesystem access).
+After almost four years of hell, I FINALLY have something for you. Screenshots, and a tutorial (I guess) on how you can access the internal SpringBoard prototype settings, but keep in mind, it is **ONLY in the iOS Simulator** (which is not easy for the laymen, and it's kind of a hell of a task, in fact), **NOT an actual iOS device**.
+That itself will require a jailbreak (or, at least, partial root read/write filesystem access) to access the internal prototype settings menu.
 
 T'was accessed by loading some files in some directories and subdirectories, and hacking Xcode and the iOS Simulator. Not compatible with an actual iOS device (nor with an earlier version of Xcode, or an earlier iOS Simulator model even) just by opening Settings, going to Developer, enabling both the "Access SpringBoard Settings", and "Access SpringBoard Settings (SIM)" toggles, closing out of Settings, and finally, tapping and holding on the Settings app icon to invoke the menu, like so.
 
