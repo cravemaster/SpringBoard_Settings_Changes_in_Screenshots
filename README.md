@@ -15,13 +15,13 @@ NOTE: There will soon be a link for downloading the recompiled AdvancedSettings8
     
 >> Thanks, Chase Fromm. <<
     
->> IT'S YOUR BIRTHDAY, DIPBOI NIGGA <<
+>> IT'S YOUR BIRTHDAY, DIPBOI NIGGA! <<
       
 >> puppets sing. <<
 
 
->> **Willy WOOOOOONKAAAAA, HEEEEERE HEEEEE IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIISSSSSSSSSSSSSSS!!!** <<
+>> **Willy WOOOOOONKAAAAA, HEEEEERE HEEEEE << IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIISSSSSSSSSSSSSSS!!!** <<
 
->> **ROBBIE ROTTEN SAYS: "IT'S DIPSTICK TIME WITH LAZYTOWN!!!**"
+>> **ROBBIE ROTTEN SAYS: "IT'S DIPSTICK TIME WITH LAZYTOWN!!!**" <<
 
 I never really watched LazyTown as a kid tbh but I'm starting to watch it and fuckkkk meeee Robbie Rotten is a d4nk m3m3 
