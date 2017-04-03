@@ -46,6 +46,4 @@ NOTE: There will soon be a link for downloading the recompiled AdvancedSettings8
 
 >> **ROBBIE ROTTEN SAYS: "IT'S DIPSTICK TIME WITH LAZYTOWN!!!**"
 
-honestly up util this point, I never have really watched LazyTown tbh but I'm starting to watch it on YouTube and fuckkkk meeee Robbie Rotten is a huge dipdip d4nk m3m3 
-
 thx mcjuggernuggets as well, jesse
