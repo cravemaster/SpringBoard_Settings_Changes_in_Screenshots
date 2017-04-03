@@ -7,13 +7,15 @@ The menu was accessed not only by using the iOS Simulator, but also by hacking i
 
 To reiterate: **this was found straight in the iOS (10) Simulator, along with a modified build of AdvancedSettings8** (which was compiled for the iOS Simulator *specifically*, and **only** for the x86_64 archictecture of said iOS Simulator), **a modified Developer Settings bundle, and simject**. Please use the x86_64 iOS Simulator models that come preinstalled with (any version of?) Xcode 8 (like the iPhone 5S, iPhone SE, iPhone 7, etc. models), and not the other models that have the i386 slice (like iPhone 5, etc.) They simply will not launch (as far as I'm aware of :/).
 
-By the way, this was theoretically **not** tested (yet?) to work with the iOS Simulator models lower than iOS 10's Simulators. So, it was not tested with the iOS 7 Simulator, iOS 8 Simulator, or iOS 9 Simulator. And even if it were tested, I doubt that it would show the internal settings menu, as it'd just be prone to a possible SpringBoard crash (or even a possible freeze of the SpringBoard) forcing you to reboot (or just close out of the iOS Simulator and reopening it) after you tap and hold on the Settings app icon to invoke the internal prototype settings).
+By the way, this was theoretically **not** tested (yet?) to work with the iOS Simulator models lower than iOS 10's Simulators. So, it was not tested with the iOS 7 Simulator, iOS 8 Simulator, or iOS 9 Simulator. And even if it were tested, I doubt that it would show the internal settings menu, as it'd just be prone to a possible SpringBoard crash (or even a possible freeze of the SpringBoard), forcing you to reboot (or just close out of the iOS Simulator and reopening it) after you tap and hold on the Settings app icon to invoke the internal settings menu, as such).
 
-In conclusion: this is commonly for developers only, it's only ever been tested on iOS 10.0, iOS 10.1, iOS 10.3 Simulators, and you need Xcode, Theos, and simject, plus a few other files that I modified. And it will not work on i386 iOS Simulator (iPhone 5, etc.) models.
+In conclusion: this is something that I recommend for **developers only**. In this such example, it was only ever been tested in the iOS Simulator versions; that of which being iOS 10.0, iOS 10.1, and iOS 10.3 Simulator.
 
-I will soon post the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to download, put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go.
+>> I will soon post the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to download, put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go. <<
     
+     Thanks, Chase Fromm.
      
+     IT'S YOUR BIRTHDAY, DIPBOI NIGGA
       
 puppets sing.
 
