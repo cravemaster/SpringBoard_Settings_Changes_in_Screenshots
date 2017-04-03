@@ -35,8 +35,10 @@ NOTE: There will soon be a link for downloading the recompiled AdvancedSettings8
 
 
 
->> LET'S TAKE A LOOM UNDER THA STANKIN WINDAHHHHHHHHHHHHH!!!!! mcjuggernuggetssssssss
+>> LET'S TAKE A LOOK UNDER THAAAAA STAAAANKKKKIIN WIIIIIIIINNNDDDAAAAAAAAAAAAAHHHHHHHHHHHHH!!!!! mcjuggernuggetssssssss
       
+
+*#we r of #awakwrd OF #sleince #holmes #of #bl00g #unthreadebl00g*
 >> puppets sing.
 
 
