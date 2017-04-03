@@ -13,15 +13,15 @@ In conclusion: this is something that I recommend for **developers only**. In th
 
 NOTE: There will soon be a link for downloading the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go.
     
->> Thanks, Chase Fromm. <<
+>> Thanks, Chase Fromm.
     
->> IT'S YOUR BIRTHDAY, DIPBOI NIGGA! <<
+>> IT'S YOUR BIRTHDAY, DIPBOI NIGGA!
       
->> puppets sing. <<
+>> puppets sing.
 
 
->> **Willy WOOOOOONKAAAAA, HEEEEERE HEEEEE << IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIISSSSSSSSSSSSSSS!!!** <<
+>> **Willy WOOOOOONKAAAAA, HEEEEERE HEEEEE IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIISSSSSSSSSSSSSSS!!!**
 
->> **ROBBIE ROTTEN SAYS: "IT'S DIPSTICK TIME WITH LAZYTOWN!!!**" <<
+>> **ROBBIE ROTTEN SAYS: "IT'S DIPSTICK TIME WITH LAZYTOWN!!!**"
 
-I never really watched LazyTown as a kid tbh but I'm starting to watch it and fuckkkk meeee Robbie Rotten is a d4nk m3m3 
+honestly up util this point, I never have really watched LazyTown tbh but I'm starting to watch it on YouTube and fuckkkk meeee Robbie Rotten is a huge dipdip d4nk m3m3 
