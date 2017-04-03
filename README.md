@@ -18,6 +18,10 @@ NOTE: There will soon be a link for downloading the recompiled AdvancedSettings8
 >> Thanks, Chase Fromm.
     
 >> IT'S YOUR BIRTHDAY, DIPBOI NIGGA!
+
+
+>> ITSSSSSS DIPPPPSTTIIIIICCCCKKKKKKKKKKK TIIMMMMMMEE
+>> YEEE HAAAAAAWWWWWWW
       
 >> puppets sing.
 
