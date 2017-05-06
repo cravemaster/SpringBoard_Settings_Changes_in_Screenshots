@@ -14,6 +14,8 @@ By the way, this was theoretically **not** tested (yet?) to work with the iOS Si
 In conclusion: this is something that I recommend for **developers only**. In this such example, it was only ever been tested in the iOS Simulator versions; that of which being iOS 10.0, iOS 10.1, and iOS 10.3 Simulator.
 
 NOTE: There will soon be a link for downloading the recompiled AdvancedSettings8 and the Developer Settings bundle, and all of it's accompanying files for you to put in it's appropriate folder locations, and test (provided you have all of the necessary files and things aformentioned), and then you should be good to go.
+
+**AT LOST LAST, YOU FINALLY CAN USE THESE IN THE IOS 10 SIMULATOR! LINK ON THIS GITHUB PAGE!**
     
 >> Thanks, Chase Fromm.
 
