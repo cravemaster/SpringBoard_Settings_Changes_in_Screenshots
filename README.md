@@ -15,11 +15,26 @@ In conclusion: this is something that I recommend for **developers only**. In th
 
 **AT LOST LAST, YOU FINALLY CAN DOWNLOAD THE FILES TO LOAD THE INTERNAL SETTINGS ON THE IOS 10.x.x SIMULATOR AND PREPARE FOR AN UPCOMING TUTORIAL! THE FILE IS CALLED AS8_Files_for_iOS_Simulator.zip! THE LINK IS ON https://github.com/cravemaster/SpringBoard_Settings_Changes_in_Screenshots! FIND AS8_Files_for_iOS_Simulator.zip ON THE GITHUB PAGE AND DOWNLOAD IT ASAP! BUT PLEASE DO BEAR IN MIND THAT THE TUTORIAL IS NOT YET READY! TUTORIAL IS COMING SOON!**
 
+Time for the outro!
 
+>> MrMacintosh_!
+
+>> i will never forget this, @SonnyDicksopn, god does not like faggots. you need the lord and savior jesus hitch christ!
+>> shameful matthew!
+
+>> shameful christ!
+
+>> shameful mokhlas aka @iMokhles, you should be ashamed.
+
+>> shameful unthreadedjb.
+
+>> @cfromm123 :) plz stay clear of the devils lettuce my son
+
+>> Don't smoke the devil's lettuce, @gregbarbosa. You need Jesus, you shameful faggot.
 
 >> Don't smoke the devil's lettuce, my son.
     
->> Thanks, Chase Fromm.
+>> Thanks, Chase Fromm and Matthew Mayhew.
 
 
 
@@ -39,6 +54,23 @@ In conclusion: this is something that I recommend for **developers only**. In th
 
 >> YEEEEEEEEEEE HAAAAAAAAAAAAAAAAAAAAAWWWWWWW
 
+>> JESS!! JESS! GETCHUR ASS OUT HERE AND MOW!
+
+>> dad..... i dont...... dude, i dont wanna mow with angelXwind....
+
+>> pls, jess ;____;
+
+>> Karen, I..
+
+>> My son
+
+>> Ok go home, den, Jess.
+
+>> DAAAAAAAAAAAAAAAAAAAAAAAAAAAD!!! MICHAEL!!!!!!!! PULL THE FIAH EXTIGUIASHAR HEEUH, MICHAEL!!!!!!!!!!! I JUST FUCKED THE NINTENDA SWITHC MAN!
+
+>> damn
+
+>> Ok then go home if yeh dont wanneh help out here. If you dont help, go home. Im sick of it, Jess.
 
 >> THEY NEED SOME ADJUSTMENTS, YEEEEEEEEEEHAAAAAAAAAAAWWWWW! LET'S TAKE A LOOK UNDER DA HOOD LIKE A STUPID REDNECK DIPSTICK!
 
@@ -53,4 +85,4 @@ In conclusion: this is something that I recommend for **developers only**. In th
 
 >> **ROBBIE ROTTEN SAYS: "IT'S DIPSTICK TIME WITH LAZYTOWN!!!**"
 
-thx mcjuggernuggets as well, jesse
+>> thx mcjuggernuggets as well, jesse
