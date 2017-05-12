@@ -13,9 +13,7 @@ By the way, this was theoretically **not** tested to work with the iOS Simulator
 
 In conclusion: this is something that I recommend for **developers only**. In this such example, it only has ever been tested on so many iOS Simulator versions out there in the wild; that of which being iOS 10.0 Simulator, iOS 10.1 Simulator and iOS 10.3 Simulator, along with x86_64 support.
 
-**AT LOST LAST, YOU FINALLY CAN USE THESE IN THE IOS 10 SIMULATOR! LINK ON https://github.com/cravemaster/SpringBoard_Settings_Changes_in_Screenshots!**
-
-**TUTORIAL IS COMING SOON!**
+**AT LOST LAST, YOU FINALLY CAN USE THESE IN THE IOS 10 SIMULATOR! LINK ON https://github.com/cravemaster/SpringBoard_Settings_Changes_in_Screenshots/blob/master/AS8%20Files%20for%20iOS%20Simulator.zip! BUT PLEASE DO DOWNLOAD WITH CAUTION, AS THE TUTORIAL IS NOT YET READY! TUTORIAL IS COMING SOON!**
 
 
     
