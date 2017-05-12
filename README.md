@@ -15,7 +15,9 @@ In conclusion: this is something that I recommend for **developers only**. In th
 
 **AT LOST LAST, YOU FINALLY CAN USE THESE IN THE IOS 10 SIMULATOR! LINK ON THIS GITHUB PAGE!**
 
-**TUTORIAL IS COMING SOON!*8
+**TUTORIAL IS COMING SOON!**
+
+
     
 >> Thanks, Chase Fromm.
 
