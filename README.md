@@ -1,7 +1,7 @@
 # SpringBoard_Settings_Changes_in_Screenshots
 So that the developers (and the curious - or even the impatient and eager) people out there - can look into this instead of going to @hamzasood's Twitter profile to check the any new SpringBoard internal prototype settings that *he* has Tweeted.
 
-**WARNING**: The future tutorial that will be written **soon** should mainly be considered a tutorial that is...
+The future tutorial that will be written soon should mainly be considered a tutorial that is...
 
 → a much more complete version than the current one, and
 → this current one should (hopefully for the time being) be only geared **mainly** for developers who use the iOS Simulator on an occasional or day-to-day basis, and who have the **delibrate intention** to install custom tweaks, libraries, etc. on their iOS Simulators (which Xcode has already bundled already in!) that require Cydia Substrate to test on, and thus, this is **not really meant for the fate of heart** (so for simple end users). If you **do not know what simject is, then please close this page immediately (to avoid simple obsession over it)!!!** It can potentially damage the files you have installed, as well as Xcode, and the iOS Simulator as well. There are reasons to things in life you just shouldn't use if you are a beginner to something you don't know about, and this is one of them.
