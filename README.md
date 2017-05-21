@@ -19,10 +19,11 @@ Time for the outro!
 
 >> MrMacintosh_!
 
->> i will never forget this, @SonnyDicksopn, god does not like faggots. you need the lord and savior jesus hitch christ!
+>> i will never forget this, @SonnyDickson, god does not like faggots. you need the lord and savior jesus hitch christ!
+
 >> shameful matthew!
 
->> shameful christ!
+>> shameful jesus hitch christ!
 
 >> shameful mokhlas aka @iMokhles, you should be ashamed.
 
@@ -36,21 +37,15 @@ Time for the outro!
     
 >> Thanks, Chase Fromm and Matthew Mayhew.
 
-
-
 >> IIIIIIIIIIIIIIIIIIIIIIIITSSSSSS DIPPPPSTTIIIIICCCCKKKKKKKKKKK TTTTTIIIIIIIIIMMMMMMMMMMME!
 
 >> IT'S DIPSTICK HELL!
     
 >> IT'S YOUR BIRTHDAY, DIPBOI NIGGA!
 
-
-
 >> YEEEEEEEEEEE HAAAAAAAAAAAAAAAAAAAAAWWWWWWW
 
 >> TIME TO OPEN GIFTS!!!!!!!!!
-
-
 
 >> YEEEEEEEEEEE HAAAAAAAAAAAAAAAAAAAAAWWWWWWW
 
@@ -62,13 +57,15 @@ Time for the outro!
 
 >> Karen, I..
 
+>> pls chase ;____;
+
 >> My son
 
->> Ok go home, den, Jess.
+>> Ok well, den, go home, den, Jess.
 
->> DAAAAAAAAAAAAAAAAAAAAAAAAAAAD!!! MICHAEL!!!!!!!! PULL THE FIAH EXTIGUIASHAR HEEUH, MICHAEL!!!!!!!!!!! I JUST FUCKED THE NINTENDA SWITHC MAN!
+>> DAAAAAAAAAAAAAAAAAAAAAAAAAAAD!!! MICHAEL!!!!!!!! PULL THE FIAH EXTIGUIASHAR HEEUH, MICHAEL!!!!!!!!!!! I JUST FUCKED THE NINTENDA SWITCH MAN!
 
->> damn
+>> damnnnnnn
 
 >> Ok then go home if yeh dont wanneh help out here. If you dont help, go home. Im sick of it, Jess.
 
@@ -76,9 +73,12 @@ Time for the outro!
 
 >> https://www.youtube.com/watch?v=h3KZFs-0ZkA
 
+>> LET'S TAKE A LOOK UNDER THAAAAA SCCCHHHHHHTAAAANKKKKIIN WWWIIIIIIIIIIIIINNNDDDAAAAAAAAAAAAAHHHHHHHHHHHHH!!!!! mcjuggernuggetssssssss
 
->> LET'S TAKE A LOOK UNDER THAAAAA STAAAANKKKKIIN WIIIIIIIINNNDDDAAAAAAAAAAAAAHHHHHHHHHHHHH!!!!! mcjuggernuggetssssssss
-      
+
+
+
+
 >> #HOLMES !! #RT !! #RT ! #RT !!
 *#we r of #awakwrd OF #sleince #holmes #of #bl00g #unthreadebl00g*
 >> puppets sing.
